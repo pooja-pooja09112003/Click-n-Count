@@ -32,5 +32,4 @@ Click N Count is a simple and interactive web application that allows users to i
 
 ---
 
-## 📂 Project Structure
 
